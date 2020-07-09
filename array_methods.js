@@ -29,4 +29,4 @@ var myArray4=myArray2.concat(myArray3);
 
 //when we have a array we can display its constructor using constructor
 
-console.log(myArray1.constructor);
+//console.log(myArray1.constructor);
